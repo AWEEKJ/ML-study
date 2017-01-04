@@ -12,8 +12,8 @@
 
 ### Lists
 
-1. Basics
-2. LinearRegression
+1. [Basics](https://github.com/AWEEKJ/ML-study/tree/master/01-Basics)
+2. [LinearRegression](https://github.com/AWEEKJ/ML-study/tree/master/02-LinearRegression)
 3. Cost
 4. MultiFeatures
 5. Logistic Classification
