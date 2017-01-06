@@ -8,13 +8,13 @@
 
 - macOS 10.12.2
 - Python 3.5.2
-- TensorFlow 0.12 CPU only
+- TensorFlow 0.12.1 CPU only
 
 ### Lists
 
 1. [Basics](https://github.com/AWEEKJ/ML-study/tree/master/01-Basics)
 2. [LinearRegression](https://github.com/AWEEKJ/ML-study/tree/master/02-LinearRegression)
-3. Cost
+3. [Cost](https://github.com/AWEEKJ/ML-study/tree/master/03-Cost)
 4. MultiFeatures
 5. Logistic Classification
 6. Softmax Classification
@@ -31,3 +31,8 @@ $ source env/bin/activate
 (env) $ pip install --upgrade pip
 (env) $ pip install -r requirements.txt
 ```
+
+### Installed Package Lists
+
+1. [tensorflow](https://pypi.python.org/pypi/tensorflow/0.12.1)
+2. [matplotlib](https://pypi.python.org/pypi/matplotlib/1.5.3)
