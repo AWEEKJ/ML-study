@@ -15,8 +15,8 @@
 1. [Basics](https://github.com/AWEEKJ/ML-study/tree/master/01-Basics)
 2. [LinearRegression](https://github.com/AWEEKJ/ML-study/tree/master/02-LinearRegression)
 3. [Cost](https://github.com/AWEEKJ/ML-study/tree/master/03-Cost)
-4. MultiFeatures
-5. Logistic Classification
+4. [MultiFeatures](https://github.com/AWEEKJ/ML-study/tree/master/04-MultiFeatures)
+5. [Logistic Classification](https://github.com/AWEEKJ/ML-study/tree/master/05-LogisticClassification)
 6. Softmax Classification
 7. Save Learning
 8. Neural Network
