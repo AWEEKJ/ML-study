@@ -21,7 +21,7 @@ update = W.assign(descent)
 # Before starting, initialize the variables.
 init = tf.global_variables_initializer()
 
-# Lauch the graph.
+# Launch the graph.
 sess = tf.Session()
 sess.run(init)
 

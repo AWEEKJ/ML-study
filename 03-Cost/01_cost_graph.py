@@ -22,7 +22,7 @@ init = tf.global_variables_initializer()
 W_val = []
 cost_val = []
 
-# Lauch the graph.
+# Launch the graph.
 sess = tf.Session()
 sess.run(init)
 
