@@ -17,7 +17,7 @@
 3. [Cost](https://github.com/AWEEKJ/ML-study/tree/master/03-Cost)
 4. [MultiFeatures](https://github.com/AWEEKJ/ML-study/tree/master/04-MultiFeatures)
 5. [Logistic Classification](https://github.com/AWEEKJ/ML-study/tree/master/05-LogisticClassification)
-6. Softmax Classification
+6. [Softmax Classification](https://github.com/AWEEKJ/ML-study/tree/master/06-SoftmaxClassification)
 7. Save Learning
 8. Neural Network
 9. Convolutional Neural Network
